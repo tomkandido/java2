@@ -1,0 +1,25 @@
+﻿(Brazilian - Portuguese)
+
+Alterações do projeto forked
+
+1-Correção de indentação
+2-Exclusão de objetoScanner execivo
+3-Adicionado a repetição da aplicação caso o usuário deseje calcular novamente
+4-Adicionado comando de limpar a tela do console (windows)
+5-Alterado a versão para 1.1
+6-Alterado a formatação do texto no console
+7-Adicionado a informação de peso ideal minimo e máximo referente a altura da pessoa
+
+-------------------------------------------------------------------------------------
+
+(English)
+
+Project changes forked
+
+1-Indentation correction
+2-Exclude ObjectExport
+3-Added repetition of the application if the user wants to calculate again
+4-Added command to clear the console screen (windows)
+5-Changed version to 1.1
+6-Changing the text formatting in the console
+7-Added minimum and maximum ideal weight information regarding person's height
